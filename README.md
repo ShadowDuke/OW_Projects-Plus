@@ -5,6 +5,15 @@ You can still add them manually like before (github) but it would be certainly e
 **Adds 9 new projects. Needs some balance testing. If you have suggestions or any input, please comment.**
 
 
+**Delete any previous files/directories from earlier versions of this mod**
+## Installation and use
+
+1. [Download](https://github.com/ShadowDuke/OW_Projects-Plus/archive/master.zip) the files and put the **"Mods"** directory in \Users\\###\Documents\My Games\OldWorld\
+   - Help: Windows Explorer; click on Documents; navigate to \My Games\Old World\
+2. Go to "Mods" in the main menu and enable "Projects+", click "Save" then "Play with Mods" or set up a new game and go to Advanced Setup to find the mod at the bottom and enable it. 
+3. Start a new game
+
+
 # New Projects
 
 
