@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <description>New Projects for Old World</description>
+  <modpicture>projectsplus.png</modpicture>
+  <author>Revan/ShadowDuke</author>
+  <modioID>146285</modioID>
+  <modioFileID>0</modioFileID>
+  <modversion>1.0</modversion>
+  <homepage />
+  <singlePlayer>true</singlePlayer>
+  <multiplayer>true</multiplayer>
+</ModInfo>

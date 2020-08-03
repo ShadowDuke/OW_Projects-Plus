@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType>TEXT_PROJECT_MILITARY_TRAINING</zType>
+		<Translation>Militärtraining</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_BUY_SLAVES</zType>
+		<Translation>Kaufe Slaven</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HIRE_MERCENARIES</zType>
+		<Translation>Söldner anheuern</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HOST_A_PLAY</zType>
+		<Translation>Richte ein Theaterstück aus</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_LOOK_FOR_MINSTER_COURTIER</zType>
+		<Translation>Suche einen Geistlichen Vertrauten</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_LOOK_FOR_SOLDIER_COURTIER</zType>
+		<Translation>Suche einen Krieger Vertrauten</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_LOOK_FOR_MERCHANT_COURTIER</zType>
+		<Translation>Suche einen Kaufmann Vertrauten</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_LOOK_FOR_SCIENTIST_COURTIER</zType>
+		<Translation>Suche einen Wissenschaftler Vertrauten</Translation>
+	</Entry>
+</Root>
