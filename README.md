@@ -7,6 +7,7 @@ You can still add them manually like before (github) but it would be certainly e
 
 # New Projects
 
+
 **Military Training:**
 
 - On Completion: +50 Training
@@ -15,7 +16,8 @@ You can still add them manually like before (github) but it would be certainly e
 - Build: 50 Civics
 - Unlocked at: Military Drill
 - Is repeatable
-<br><br><br>
+
+
 **Buy Slaves:**
 
 - On Completion: +1 Citizen & +40 Discontent
@@ -24,14 +26,16 @@ You can still add them manually like before (github) but it would be certainly e
 - Unlocked at: Labor Force
 - Need Law: Slavery
 - Is repeatable
-<br><br><br>
+
+
 **Hire Mercenaries:**
 
 - On Completion: -100 Training & Gain Militia (X2)
 - Costs: 50 Civics, 500 Money & 50 Food
 - Unlocked at: Rhetoric
 - Is repeatable
-<br><br><br>
+
+
 **Host a Play:**
 
 - On Completion: +40 Culture & -40 Food
@@ -40,7 +44,8 @@ You can still add them manually like before (github) but it would be certainly e
 - Unlocked at: Drama
 - Needs min Culture: Developing
 - Is not repeatable
-<br><br><br>
+
+
 **Look for Courtier (Soldier/Minister/Merchant/Scientist):**
 
 - On Completion: Courtier Join Court
