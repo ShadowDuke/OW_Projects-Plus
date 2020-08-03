@@ -39,7 +39,7 @@ You can still add them manually like before (github) but it would be certainly e
 **Host a Play:**
 
 - On Completion: +40 Culture & -40 Food
-- Odeons: +25% Output, Amphitheaters and Colosseums: +50% Output
+- Odeons: +25% Output & Amphitheaters and Colosseums: +50% Output
 - Costs: 30 Stone, 20 Wood & 350 Money
 - Unlocked at: Drama
 - Needs min Culture: Developing
