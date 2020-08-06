@@ -40,7 +40,7 @@
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_CULTURE</zIndex>
-				<iValue>40</iValue>
+				<iValue>35</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_FOOD</zIndex>

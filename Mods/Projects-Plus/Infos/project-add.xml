@@ -38,7 +38,7 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>350</iValue>
+				<iValue>400</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
@@ -59,7 +59,7 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>500</iValue>
+				<iValue>600</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
@@ -86,7 +86,7 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>350</iValue>
+				<iValue>400</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_STONE</zIndex>
@@ -111,7 +111,7 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>1000</iValue>
+				<iValue>1300</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>
@@ -128,7 +128,7 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>1000</iValue>
+				<iValue>1300</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>
@@ -145,7 +145,7 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>1000</iValue>
+				<iValue>1300</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>
@@ -162,7 +162,7 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>1000</iValue>
+				<iValue>1300</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>
