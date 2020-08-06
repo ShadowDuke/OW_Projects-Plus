@@ -47,9 +47,9 @@ You can still add them manually like before (github) but it would be certainly e
 
 **Host a Play:**
 
-- On Completion: +40 Culture & -40 Food
+- On Completion: +35 Culture & -40 Food
 - Odeons: +25% Output & Amphitheaters and Colosseums: +50% Output
-- Costs: 30 Stone, 20 Wood & 350 Money
+- Costs: 30 Stone, 20 Wood & 400 Money
 - Unlocked at: Drama
 - Needs min Culture: Developing
 - Is not repeatable
@@ -58,7 +58,7 @@ You can still add them manually like before (github) but it would be certainly e
 **Look for Courtier (Soldier/Minister/Merchant/Scientist):**
 
 - On Completion: Courtier Join Court
-- Costs: 1000 Money
+- Costs: 1300 Money
 - Build: 40 Civics
 - Is not repeatable
 - Soldier: Req. Tech: Battleline
