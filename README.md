@@ -31,7 +31,7 @@ You can still add them manually like before (github) but it would be certainly e
 
 - On Completion: +1 Citizen & +40 Discontent
 - City: -0,5 Growth/Year
-- Costs: 350 Money & 50 Civics
+- Costs: 400 Money & 50 Civics
 - Unlocked at: Labor Force
 - Need Law: Slavery
 - Is repeatable
@@ -40,7 +40,7 @@ You can still add them manually like before (github) but it would be certainly e
 **Hire Mercenaries:**
 
 - On Completion: -100 Training & Gain Militia (X2)
-- Costs: 50 Civics, 500 Money & 50 Food
+- Costs: 50 Civics, 600 Money & 50 Food
 - Unlocked at: Rhetoric
 - Is repeatable
 
