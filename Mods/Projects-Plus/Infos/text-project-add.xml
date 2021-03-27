@@ -40,4 +40,8 @@
 		<zType>TEXT_PROJECT_RELIGION_NO</zType>
 		<English>Forbid Religion spread</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PILLAGE_GRANARY</zType>
+		<English>Pillage the granary</English>
+	</Entry>
 </Root>

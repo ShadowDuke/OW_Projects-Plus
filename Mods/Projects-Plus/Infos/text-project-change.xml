@@ -40,4 +40,8 @@
 		<zType>TEXT_PROJECT_RELIGION_NO</zType>
 		<Translation>Verbiete Religionsausbreitung</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PILLAGE_GRANARY</zType>
+		<Translation>Plündere die Kornkammer</Translation>
+	</Entry>
 </Root>

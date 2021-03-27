@@ -70,4 +70,18 @@
 			</Pair>
 		</aiCityYields>
 	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_PILLAGE_GRANARY</zType>
+		<iLegitimacy>-1</iLegitimacy>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_FOOD</zIndex>
+				<iValue>200</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
 </Root>

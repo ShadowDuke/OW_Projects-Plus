@@ -69,4 +69,19 @@
 			</Pair>
 		</aiYieldRate>
 	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_PILLAGE_GRANARY</zType>
+		<Name>TEXT_EFFECTCITY_PROJECT_PILLAGE_GRANARY</Name>
+		<SourceProject>PROJECT_PILLAGE_GRANARY</SourceProject>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MAINTENANCE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
 </Root>

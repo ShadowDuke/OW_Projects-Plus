@@ -20,4 +20,8 @@
 		<zType>TEXT_EFFECTCITY_PROJECT_RELIGION_NO</zType>
 		<English>Forbade Religion spread in this City</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_PILLAGE_GRANARY</zType>
+		<English>Pillaged the granary</English>
+	</Entry>
 </Root>

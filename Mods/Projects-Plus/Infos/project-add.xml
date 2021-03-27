@@ -177,6 +177,7 @@
 		<EffectCity>EFFECTCITY_PROJECT_RELIGION_YES</EffectCity>
 		<MinimumCulture>CULTURE_DEVELOPING</MinimumCulture>
 		<TechPrereq>TECH_MONASTICISM</TechPrereq>
+		<EffectPlayerPrereq>EFFECTPLAYER_LAW_MONOTHEISM</EffectPlayerPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -191,11 +192,17 @@
 				<iValue>50</iValue>
 			</Pair>
 		</aiYieldCost>
+		<abInvalidBy>
+			<Pair>
+				<zIndex>PROJECT_RELIGION_NO</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abInvalidBy>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_RELIGION_NO</zType>
 		<Name>TEXT_PROJECT_RELIGION_NO</Name>
-		<zIcon>PROJECT_DECREE_2</zIcon>
+		<zIcon>PROJECT_DECREE_1</zIcon>
 		<iCivics>0</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<bNoHurry>1</bNoHurry>
@@ -204,6 +211,7 @@
 		<EffectCity>EFFECTCITY_PROJECT_RELIGION_NO</EffectCity>
 		<MinimumCulture>CULTURE_DEVELOPING</MinimumCulture>
 		<TechPrereq>TECH_MONASTICISM</TechPrereq>
+		<EffectPlayerPrereq>EFFECTPLAYER_LAW_ORTHODOXY</EffectPlayerPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -212,6 +220,34 @@
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
 				<iValue>50</iValue>
+			</Pair>
+		</aiYieldCost>
+		<abInvalidBy>
+			<Pair>
+				<zIndex>PROJECT_RELIGION_YES</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abInvalidBy>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_PILLAGE_GRANARY</zType>
+		<Name>TEXT_PROJECT_PILLAGE_GRANARY</Name>
+		<zIcon>PROJECT_INQUIRY_1</zIcon>
+		<iCivics>10</iCivics>
+		<iMaxCount>1</iMaxCount>
+		<bNoHurry>1</bNoHurry>
+		<Bonus>BONUS_PROJECT_PILLAGE_GRANARY</Bonus>
+		<CityProject>PROJECT_PILLAGE_GRANARY</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_PILLAGE_GRANARY</EffectCity>
+		<EffectPlayerPrereq>EFFECTPLAYER_LAW_TYRANNY</EffectPlayerPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>20</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>
