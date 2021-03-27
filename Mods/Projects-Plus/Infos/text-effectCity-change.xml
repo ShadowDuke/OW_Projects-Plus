@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<!-- Projects+ (Revan) -->
 <Root>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_MILITARY_TRAINING</zType>
@@ -11,6 +10,14 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_HOST_A_PLAY</zType>
-		<Translation>Richte ein Theaterstück aus</Translation>
+		<Translation>Richtete ein Theaterstück aus</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_RELIGION_YES</zType>
+		<Translation>Unterstütze Religion in dieser Stadt</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_RELIGION_NO</zType>
+		<Translation>Verbat die Religionsausbreitung in dieser Stadt</Translation>
 	</Entry>
 </Root>

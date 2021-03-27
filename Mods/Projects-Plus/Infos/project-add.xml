@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<!-- edited with XMLSpy v2018 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<!-- Projects+ (Revan) -->
 <Root>
 	<Entry>
 		<zType>PROJECT_MILITARY_TRAINING</zType>
@@ -163,6 +162,56 @@
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
 				<iValue>1300</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_RELIGION_YES</zType>
+		<Name>TEXT_PROJECT_RELIGION_YES</Name>
+		<zIcon>PROJECT_DECREE_1</zIcon>
+		<iCivics>0</iCivics>
+		<iMaxCount>1</iMaxCount>
+		<bNoHurry>1</bNoHurry>
+		<Bonus>BONUS_PROJECT_RELIGION_YES</Bonus>
+		<CityProject>PROJECT_RELIGION_YES</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_RELIGION_YES</EffectCity>
+		<MinimumCulture>CULTURE_DEVELOPING</MinimumCulture>
+		<TechPrereq>TECH_MONASTICISM</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>600</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_FOOD</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_RELIGION_NO</zType>
+		<Name>TEXT_PROJECT_RELIGION_NO</Name>
+		<zIcon>PROJECT_DECREE_2</zIcon>
+		<iCivics>0</iCivics>
+		<iMaxCount>1</iMaxCount>
+		<bNoHurry>1</bNoHurry>
+		<Bonus>BONUS_PROJECT_RELIGION_NO</Bonus>
+		<CityProject>PROJECT_RELIGION_NO</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_RELIGION_NO</EffectCity>
+		<MinimumCulture>CULTURE_DEVELOPING</MinimumCulture>
+		<TechPrereq>TECH_MONASTICISM</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>500</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>50</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>

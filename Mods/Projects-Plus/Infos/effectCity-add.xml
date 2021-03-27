@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<!-- Projects+ (Revan) -->
 <Root>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_MILITARY_TRAINING</zType>
@@ -42,5 +41,32 @@
 				<iValue>50</iValue>
 			</Pair>
 		</aiImprovementModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_RELIGION_YES</zType>
+		<Name>TEXT_EFFECTCITY_PROJECT_RELIGION_YES</Name>
+		<SourceProject>PROJECT_RELIGION_YES</SourceProject>
+		<aiYieldRateReligion>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldRateReligion>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_RELIGION_NO</zType>
+		<Name>TEXT_EFFECTCITY_PROJECT_RELIGION_NO</Name>
+		<SourceProject>PROJECT_RELIGION_NO</SourceProject>
+		<bNoReligionSpread>1</bNoReligionSpread>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>-50</iValue>
+			</Pair>
+		</aiYieldRate>
 	</Entry>
 </Root>

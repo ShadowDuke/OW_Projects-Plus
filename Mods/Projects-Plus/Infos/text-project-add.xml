@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<!-- Projects+ (Revan) -->
 <Root>
 	<Entry>
 		<zType>TEXT_PROJECT_MILITARY_TRAINING</zType>
@@ -32,5 +31,13 @@
 	<Entry>
 		<zType>TEXT_PROJECT_LOOK_FOR_SCIENTIST_COURTIER</zType>
 		<English>Look for Scientist Courtier</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_RELIGION_YES</zType>
+		<English>Support Religion</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_RELIGION_NO</zType>
+		<English>Forbid Religion spread</English>
 	</Entry>
 </Root>

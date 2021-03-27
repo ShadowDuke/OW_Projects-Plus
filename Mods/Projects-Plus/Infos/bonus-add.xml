@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Leyla Johnson (Private) -->
+<!-- Projects+ (Revan) -->
 <Root>
 	<Entry>
 		<zType>BONUS_PROJECT_MILITARY_TRAINING</zType>
@@ -45,6 +44,29 @@
 			<Pair>
 				<zIndex>YIELD_FOOD</zIndex>
 				<iValue>-40</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_RELIGION_YES</zType>
+		<MemoryReligion>MEMORYRELIGION_SUPPORTED_FAITH</MemoryReligion>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_RELIGION_NO</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>-20</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>
