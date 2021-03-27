@@ -53,11 +53,11 @@
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_CULTURE</zIndex>
-				<iValue>20</iValue>
+				<iValue>30</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_SCIENCE</zIndex>
-				<iValue>10</iValue>
+				<iValue>15</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>
@@ -66,7 +66,7 @@
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_CULTURE</zIndex>
-				<iValue>-20</iValue>
+				<iValue>-25</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>
