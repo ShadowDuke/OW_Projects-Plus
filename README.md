@@ -68,7 +68,7 @@ You can still add them manually like before (github) but it would be certainly e
 
 **Support Religion:**
 
-- On Completion: +20 Culture (City) & -10 Science (Global)
+- On Completion: +30 Culture (City) & +15 Science (Global)
 - +4 Culture/Year per Religion & +2 Science/Year per Religion
 - Gives positive Religion memorylevel medium normal
 - Costs: 40 Civics, 30 Food & 600 Money
@@ -79,7 +79,7 @@ You can still add them manually like before (github) but it would be certainly e
 
 **Forbid Religion spread:**
 
-- On Completion: -20 Culture (City)
+- On Completion: -25 Culture (City)
 - -5 Science/Year (City)
 - Gives no random non-state religion spread (City)
 - Costs: 50 Civics & 500 Money
