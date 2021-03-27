@@ -88,3 +88,12 @@ You can still add them manually like before (github) but it would be certainly e
 - Need Law: Orthodoxy
 - Needs min Culture: Developing
 - Is not repeatable 
+
+**Pillage Granary:**
+
+- On Completion: -1 Legitimacy, +50 Discontent & +200 Food
+- +2 Discontent & +1 Maintenance/Year
+- Gives no random non-state religion spread (City)
+- Costs: 20 Civics & 50 Training
+- Need Law: Tyranny
+- Is repeatable 
