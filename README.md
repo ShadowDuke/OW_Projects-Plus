@@ -73,6 +73,7 @@ You can still add them manually like before (github) but it would be certainly e
 - Gives positive Religion memorylevel medium normal
 - Costs: 40 Civics, 30 Food & 600 Money
 - Unlocked at: Monasticism
+- Need Law: Monotheism
 - Needs min Culture: Developing
 - Is not repeatable  
 
@@ -84,5 +85,6 @@ You can still add them manually like before (github) but it would be certainly e
 - Gives no random non-state religion spread (City)
 - Costs: 50 Civics & 500 Money
 - Unlocked at: Monasticism
+- Need Law: Orthodoxy
 - Needs min Culture: Developing
 - Is not repeatable 
