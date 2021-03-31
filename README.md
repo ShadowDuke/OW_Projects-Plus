@@ -2,7 +2,7 @@
 **The game is now using [mod.io](https://oldworld.mod.io/) for mod-support in their game which was implemented with the latest patch (20th July).<br>
 You can still add them manually like before (github) but it would be certainly easier for you to create a [mod.io](https://oldworld.mod.io/) profile and get the mods and updates for them through the game now.**
 
-**Adds 9 new projects. Needs some balance testing. If you have suggestions or any input, please comment.**
+**Adds 12 new projects. Needs some balance testing. If you have suggestions or any input, please comment.**
 
 
 **Delete any previous files/directories from earlier versions of this mod**
