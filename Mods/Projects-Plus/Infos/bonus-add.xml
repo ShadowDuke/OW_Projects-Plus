@@ -76,11 +76,11 @@
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>50</iValue>
+				<iValue>40</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_FOOD</zIndex>
-				<iValue>200</iValue>
+				<iValue>300</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>
