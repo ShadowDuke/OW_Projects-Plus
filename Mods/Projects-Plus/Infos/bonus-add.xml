@@ -31,7 +31,7 @@
 		<aiGlobalYieldsBase>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>400</iValue>
+				<iValue>300</iValue>
 			</Pair>
 		</aiGlobalYieldsBase>
 	</Entry>
