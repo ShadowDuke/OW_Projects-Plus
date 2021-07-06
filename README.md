@@ -27,11 +27,20 @@ You can still add them manually like before (github) but it would be certainly e
 - Is repeatable
 
 
-**Buy Slaves:**
+**Slave market (buy):**
 
-- On Completion: +1 Citizen & +40 Discontent
+- On Completion: +1 Citizen & +50 Discontent
 - City: -0,5 Growth/Year
 - Costs: 400 Money & 50 Civics
+- Unlocked at: Labor Force
+- Need Law: Slavery
+- Is repeatable
+
+**Slave market (sell):**
+
+- On Completion: -1 Citizen, +50 Discontent & 300 money
+- City: -0,5 Growth/Year
+- Costs: 50 Civics
 - Unlocked at: Labor Force
 - Need Law: Slavery
 - Is repeatable
