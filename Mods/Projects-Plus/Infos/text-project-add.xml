@@ -6,7 +6,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_BUY_SLAVES</zType>
-		<English>Buy Slaves</English>
+		<English>Slave market (buy)</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SELL_SLAVES</zType>
+		<English>Slave market (sell)</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HIRE_MERCENARIES</zType>

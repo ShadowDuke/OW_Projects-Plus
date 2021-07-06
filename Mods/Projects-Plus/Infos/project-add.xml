@@ -46,6 +46,25 @@
 		</aiYieldCost>
 	</Entry>
 	<Entry>
+		<zType>PROJECT_SELL_SLAVES</zType>
+		<Name>TEXT_PROJECT_SELL_SLAVES</Name>
+		<zIcon>PROJECT_REPAIR</zIcon>
+		<iCivics>0</iCivics>
+		<bRepeat>1</bRepeat>
+		<bNoHurry>0</bNoHurry>
+		<Bonus>BONUS_PROJECT_SELL_SLAVES</Bonus>
+		<CityProject>PROJECT_SELL_SLAVES</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_SELL_SLAVES</EffectCity>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+		<EffectPlayerPrereq>EFFECTPLAYER_LAW_SLAVERY</EffectPlayerPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
 		<zType>PROJECT_HIRE_MERCENARIES</zType>
 		<Name>TEXT_PROJECT_HIRE_MERCENARIES</Name>
 		<zIcon>PROJECT_CORRUPTION_REFORM</zIcon>
@@ -89,7 +108,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_STONE</zIndex>
-				<iValue>30</iValue>
+				<iValue>40</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_WOOD</zIndex>
@@ -181,15 +200,15 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>600</iValue>
+				<iValue>500</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_FOOD</zIndex>
-				<iValue>30</iValue>
+				<iValue>40</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
-				<iValue>50</iValue>
+				<iValue>40</iValue>
 			</Pair>
 		</aiYieldCost>
 		<abInvalidBy>
@@ -215,11 +234,11 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>500</iValue>
+				<iValue>300</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
-				<iValue>50</iValue>
+				<iValue>40</iValue>
 			</Pair>
 		</aiYieldCost>
 		<abInvalidBy>
@@ -243,11 +262,11 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
-				<iValue>50</iValue>
+				<iValue>60</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
-				<iValue>20</iValue>
+				<iValue>30</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>

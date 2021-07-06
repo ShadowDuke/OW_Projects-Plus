@@ -9,6 +9,10 @@
 		<Translation>Kaufte Sklaven</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_SELL_SLAVES</zType>
+		<Translation>Verkaufte Sklaven</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_HOST_A_PLAY</zType>
 		<Translation>Richtete ein Theaterstück aus</Translation>
 	</Entry>

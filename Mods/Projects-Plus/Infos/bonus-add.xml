@@ -15,16 +15,32 @@
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>40</iValue>
+				<iValue>50</iValue>
 			</Pair>
 		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_SELL_SLAVES</zType>
+		<iCitizens>-1</iCitizens>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiCityYields>
+		<aiGlobalYieldsBase>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>400</iValue>
+			</Pair>
+		</aiGlobalYieldsBase>
 	</Entry>
 	<Entry>
 		<zType>BONUS_PROJECT_HIRE_MERCENARIES</zType>
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
-				<iValue>-100</iValue>
+				<iValue>-150</iValue>
 			</Pair>
 		</aiCityYields>
 		<aiBonusUnits>
@@ -39,11 +55,11 @@
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_CULTURE</zIndex>
-				<iValue>35</iValue>
+				<iValue>40</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_FOOD</zIndex>
-				<iValue>-40</iValue>
+				<iValue>-60</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>
@@ -66,7 +82,7 @@
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_CULTURE</zIndex>
-				<iValue>-25</iValue>
+				<iValue>-20</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>
@@ -80,7 +96,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_FOOD</zIndex>
-				<iValue>300</iValue>
+				<iValue>400</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>
