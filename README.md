@@ -39,7 +39,7 @@ You can still add them manually like before (github) but it would be certainly e
 
 **Hire Mercenaries:**
 
-- On Completion: -100 Training & Gain Militia (X2)
+- On Completion: -180 Training & Gain Militia (X2)
 - Costs: 50 Civics, 600 Money & 50 Food
 - Unlocked at: Rhetoric
 - Is repeatable
@@ -47,9 +47,9 @@ You can still add them manually like before (github) but it would be certainly e
 
 **Host a Play:**
 
-- On Completion: +35 Culture & -40 Food
+- On Completion: +40 Culture & -60 Food
 - Odeons: +25% Output & Amphitheaters and Colosseums: +50% Output
-- Costs: 30 Stone, 20 Wood & 400 Money
+- Costs: 40 Stone, 20 Wood & 400 Money
 - Unlocked at: Drama
 - Needs min Culture: Developing
 - Is not repeatable
@@ -71,7 +71,7 @@ You can still add them manually like before (github) but it would be certainly e
 - On Completion: +30 Culture (City) & +15 Science (Global)
 - +4 Culture/Year per Religion & +2 Science/Year per Religion
 - Gives positive Religion memorylevel medium normal
-- Costs: 40 Civics, 30 Food & 600 Money
+- Costs: 40 Civics, 40 Food & 500 Money
 - Unlocked at: Monasticism
 - Need Law: Monotheism
 - Needs min Culture: Developing
@@ -80,10 +80,10 @@ You can still add them manually like before (github) but it would be certainly e
 
 **Forbid Religion spread:**
 
-- On Completion: -25 Culture (City)
-- -5 Science/Year (City)
+- On Completion: -20 Culture (City)
+- -1 Science/Year (City)
 - Gives no random non-state religion spread (City)
-- Costs: 50 Civics & 500 Money
+- Costs: 40 Civics & 300 Money
 - Unlocked at: Monasticism
 - Need Law: Orthodoxy
 - Needs min Culture: Developing
@@ -91,8 +91,8 @@ You can still add them manually like before (github) but it would be certainly e
 
 **Pillage Granary:**
 
-- On Completion: -1 Legitimacy, +40 Discontent & +300 Food
+- On Completion: -1 Legitimacy, +40 Discontent & +400 Food
 - +2 Discontent & +1 Maintenance/Year
-- Costs: 20 Civics & 50 Training
+- Costs: 30 Civics & 60 Training
 - Need Law: Tyranny
 - Is repeatable 
