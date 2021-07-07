@@ -16,6 +16,20 @@ You can still add them manually like before (github) but it would be certainly e
 
 # New Projects
 
+- **Military Training**
+- **Slave market (buy)**
+- **Slave market (sell)**
+- **Hire Mercenaries (local)**
+- **Host a Play**
+- **Look for Courtier (Soldier/Minister/Merchant/Scientist)**
+- **Support Religion**
+- **Forbid Religion spread**
+- **Pillage Granary**
+- **Construct monument**
+- **Canalization I-III**
+
+<br><br>
+
 
 **Military Training:**
 
@@ -105,3 +119,39 @@ You can still add them manually like before (github) but it would be certainly e
 - Costs: 30 Civics & 60 Training
 - Need Law: Tyranny
 - Is repeatable 
+
+**Construct monument:**
+
+- Capital only
+- On Completion: +3 Legitimacy, +100 Culture & -50 Discontent
+- +5 Culture & -3 Discontent/Year
+- Costs: 200 Civics, 5 Orders, 700 Money, 50 Food, 350 Stone & 50 Wood
+- Unlocked at: Sovereignty
+- Needs min Culture: Developing
+- Need Law: Divine Rule
+- Is not repeatable
+
+
+**Canalization I-III:**
+
+- **I**
+   - On Completion: +1 Growth & -15 Discontent
+   - +0,5 Grwoth/Year & -0,5 Discontent/Year
+   - Costs: 50 Tone & 20 Wood
+   - Unlocked at: Husbandry
+
+- **II**
+   - On Completion: +20 Civics & -40 Discontent
+   - -1,5 Discontent/Year & Farms, Pastures, Groves and Hamlet improvements +25% yield
+   - Costs: 80 Stone & 30 Wood
+   - Unlocked at: Consolidation
+
+- **III**
+   - On Completion: +50 Civics & -80 Discontent
+   - -4 Discontent/Year, Farms, Pastures, Groves and Hamlet improvements +50% yield & Winmill and Watermill +25% yield
+   - Costs: 130 Stone,2 0 Iron & 20 Wood
+   - Unlocked at: Hydraulics
+
+<br><br>
+
+**Mod compatibility with all my mods**
