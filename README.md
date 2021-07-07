@@ -108,9 +108,10 @@ You can still add them manually like before (github) but it would be certainly e
 
 **Construct monument:**
 
-- On Completion: +2 Legitimacy, +50 Culture & -50 Discontent
-- +4 Culture & -2 Discontent/Year
-- Costs: 100 Civics, 450 Money, 50 Food, 250 Stone & 50 Wood
+- Capital only
+- On Completion: +3 Legitimacy, +100 Culture & -50 Discontent
+- +5 Culture & -3 Discontent/Year
+- Costs: 200 Civics, 5 Orders, 700 Money, 50 Food, 350 Stone & 50 Wood
 - Unlocked at: Sovereignty
 - Needs min Culture: Developing
 - Need Law: Divine Rule
