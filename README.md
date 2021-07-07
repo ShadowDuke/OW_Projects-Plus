@@ -105,3 +105,16 @@ You can still add them manually like before (github) but it would be certainly e
 - Costs: 30 Civics & 60 Training
 - Need Law: Tyranny
 - Is repeatable 
+
+**Construct monument:**
+
+- On Completion: +2 Legitimacy, +50 Culture & -50 Discontent
+- +4 Culture & -2 Discontent/Year
+- Costs: 100 Civics, 450 Money, 50 Food, 250 Stone & 50 Wood
+- Unlocked at: Sovereignty
+- Needs min Culture: Developing
+- Need Law: Divine Rule
+- Is not repeatable
+
+
+**Mod compatibility with all my mods**
