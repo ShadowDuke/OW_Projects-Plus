@@ -48,4 +48,24 @@
 		<zType>TEXT_PROJECT_PILLAGE_GRANARY</zType>
 		<Translation>Plündere die Kornkammer</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONSTRUCT_MONUMENT</zType>
+		<Translation>Errichte ein Monument</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CANALIZATION</zType>
+		<Translation>Kanalisation</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CANALIZATION_1</zType>
+		<Translation>Kanalisation I~eine Kanalisation I~Kanalisationen I</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CANALIZATION_2</zType>
+		<Translation>Kanalisation II~eine Kanalisation II~Kanalisationen II</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CANALIZATION_3</zType>
+		<Translation>Kanalisation III~eine Kanalisation III~Kanalisationen III</Translation>
+	</Entry>
 </Root>

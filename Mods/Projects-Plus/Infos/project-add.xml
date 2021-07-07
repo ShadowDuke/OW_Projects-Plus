@@ -187,7 +187,7 @@
 	<Entry>
 		<zType>PROJECT_RELIGION_YES</zType>
 		<Name>TEXT_PROJECT_RELIGION_YES</Name>
-		<zIcon>PROJECT_DECREE_1</zIcon>
+		<zIcon>PROJECT_MONARCH</zIcon>
 		<iCivics>0</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<bNoHurry>1</bNoHurry>
@@ -221,7 +221,7 @@
 	<Entry>
 		<zType>PROJECT_RELIGION_NO</zType>
 		<Name>TEXT_PROJECT_RELIGION_NO</Name>
-		<zIcon>PROJECT_DECREE_1</zIcon>
+		<zIcon>PROJECT_MONARCH</zIcon>
 		<iCivics>0</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<bNoHurry>1</bNoHurry>
@@ -253,7 +253,7 @@
 		<Name>TEXT_PROJECT_PILLAGE_GRANARY</Name>
 		<zIcon>PROJECT_INQUIRY_1</zIcon>
 		<iCivics>10</iCivics>
-		<iMaxCount>1</iMaxCount>
+		<bRepeat>1</bRepeat>
 		<bNoHurry>1</bNoHurry>
 		<Bonus>BONUS_PROJECT_PILLAGE_GRANARY</Bonus>
 		<CityProject>PROJECT_PILLAGE_GRANARY</CityProject>
@@ -267,6 +267,135 @@
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
 				<iValue>30</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_CONSTRUCT_MONUMENT</zType>
+		<Name>TEXT_PROJECT_CONSTRUCT_MONUMENT</Name>
+		<zIcon>PROJECT_TRIUMPH</zIcon>
+		<iCivics>120</iCivics>
+		<iMaxCount>1</iMaxCount>
+		<bNoHurry>1</bNoHurry>
+		<Bonus>BONUS_PROJECT_CONSTRUCT_MONUMENT</Bonus>
+		<CityProject>PROJECT_CONSTRUCT_MONUMENT</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_CONSTRUCT_MONUMENT</EffectCity>
+		<MinimumCulture>CULTURE_DEVELOPING</MinimumCulture>
+		<TechPrereq>TECH_SOVEREIGNTY</TechPrereq>
+		<CapitalEffectPlayerPrereq>EFFECTPLAYER_LAW_DIVINE_RULE</CapitalEffectPlayerPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>200</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_ORDERS</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>700</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_STONE</zIndex>
+				<iValue>350</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_WOOD</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_FOOD</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+		
+	<Entry>
+		<zType>PROJECT_CANALIZATION_1</zType>
+		<Name>TEXT_PROJECT_CANALIZATION_1</Name>
+		<zIcon>PROJECT_CONVOY_1</zIcon>
+		<iCivics>40</iCivics>
+		<iMaxCount>1</iMaxCount>
+		<Bonus>BONUS_PROJECT_CANALIZATION_1</Bonus>
+		<CityProject>PROJECT_CANALIZATION_1</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_CANALIZATION_1</EffectCity>
+		<EffectCityExtra>EFFECTCITY_PROJECT_CANALIZATION</EffectCityExtra>
+		<TechPrereq>TECH_HUSBANDRY</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_STONE</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_WOOD</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldCost>
+		<abInvalidBy>
+			<Pair>
+				<zIndex>PROJECT_CANALIZATION_2</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>PROJECT_CANALIZATION_3</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abInvalidBy>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_CANALIZATION_2</zType>
+		<Name>TEXT_PROJECT_CANALIZATION_2</Name>
+		<zIcon>PROJECT_CONVOY_2</zIcon>
+		<iCivics>70</iCivics>
+		<iMaxCount>1</iMaxCount>
+		<Bonus>BONUS_PROJECT_CANALIZATION_2</Bonus>
+		<CityProject>PROJECT_CANALIZATION_2</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_CANALIZATION_2</EffectCity>
+		<EffectCityExtra>EFFECTCITY_PROJECT_CANALIZATION</EffectCityExtra>
+		<TechPrereq>TECH_LAND_CONSOLIDATION</TechPrereq>
+		<ProjectPrereq>PROJECT_CANALIZATION_1</ProjectPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_STONE</zIndex>
+				<iValue>80</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_WOOD</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+		</aiYieldCost>
+		<abInvalidBy>
+			<Pair>
+				<zIndex>PROJECT_CANALIZATION_3</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abInvalidBy>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_CANALIZATION_3</zType>
+		<Name>TEXT_PROJECT_CANALIZATION_3</Name>
+		<zIcon>PROJECT_CONVOY_3</zIcon>
+		<iCivics>110</iCivics>
+		<iMaxCount>1</iMaxCount>
+		<Bonus>BONUS_PROJECT_CANALIZATION_3</Bonus>
+		<CityProject>PROJECT_CANALIZATION_3</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_CANALIZATION_3</EffectCity>
+		<EffectCityExtra>EFFECTCITY_PROJECT_CANALIZATION</EffectCityExtra>
+		<TechPrereq>TECH_HYDRAULICS</TechPrereq>
+		<ProjectPrereq>PROJECT_CANALIZATION_2</ProjectPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_STONE</zIndex>
+				<iValue>130</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_IRON</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_WOOD</zIndex>
+				<iValue>20</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>

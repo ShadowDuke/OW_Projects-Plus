@@ -28,4 +28,12 @@
 		<zType>TEXT_EFFECTCITY_PROJECT_PILLAGE_GRANARY</zType>
 		<Translation>Plünderte die Kornkammer</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_CONSTRUCT_MONUMENT</zType>
+		<Translation>Errichtete ein Monument</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_CANALIZATION</zType>
+		<Translation>Kanalisation~eine Kanalisation~Kanalisationen</Translation>
+	</Entry>
 </Root>

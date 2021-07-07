@@ -48,4 +48,24 @@
 		<zType>TEXT_PROJECT_PILLAGE_GRANARY</zType>
 		<English>Pillage the granary</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONSTRUCT_MONUMENT</zType>
+		<English>Construct a monument</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CANALIZATION</zType>
+		<English>Canalization</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CANALIZATION_1</zType>
+		<English>Canalization I~a Canalization I~Canalizations I</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CANALIZATION_2</zType>
+		<English>Canalization II~a Canalization II~Canalizations II</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CANALIZATION_3</zType>
+		<English>Canalization III~a Canalization III~Canalizations III</English>
+	</Entry>
 </Root>

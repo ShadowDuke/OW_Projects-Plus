@@ -100,4 +100,57 @@
 			</Pair>
 		</aiCityYields>
 	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_CONSTRUCT_MONUMENT</zType>
+		<iLegitimacy>3</iLegitimacy>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_CANALIZATION_1</zType>
+		<aiGlobalYields>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-15</iValue>
+			</Pair>
+		</aiGlobalYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_CANALIZATION_2</zType>
+		<aiGlobalYields>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-40</iValue>
+			</Pair>
+		</aiGlobalYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_CANALIZATION_3</zType>
+		<aiGlobalYields>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-80</iValue>
+			</Pair>
+		</aiGlobalYields>
+	</Entry>
 </Root>
