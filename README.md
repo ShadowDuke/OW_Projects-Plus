@@ -27,6 +27,7 @@ You can still add them manually like before (github) but it would be certainly e
 - **Pillage Granary**
 - **Construct monument**
 - **Canalization I-III**
+- **Brothels**
 
 <br><br>
 
