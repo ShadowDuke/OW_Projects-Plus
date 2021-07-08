@@ -27,7 +27,7 @@ You can still add them manually like before (github) but it would be certainly e
 - **Pillage Granary**
 - **Construct monument**
 - **Canalization I-III**
-- **Brothels**
+- **Brothel**
 
 <br><br>
 
@@ -44,17 +44,17 @@ You can still add them manually like before (github) but it would be certainly e
 
 **Slave market (buy):**
 
-- On Completion: +1 Citizen & +50 Discontent
-- City: -0,5 Growth/Year
-- Costs: 400 Money & 50 Civics
+- On Completion: +1 Citizen & +30 Discontent
+- City: -0,5 Growth/Year, -0,5 Discontent/Year
+- Costs: 400 Money, 50 Civics 1
 - Unlocked at: Labor Force
 - Need Law: Slavery
 - Is repeatable
 
 **Slave market (sell):**
 
-- On Completion: -1 Citizen, +50 Discontent & 300 money
-- City: -0,5 Growth/Year
+- On Completion: -1 Citizen, +30 Discontent & 300 money
+- City: -0,5 Growth/Year, -0,5 Discontent/Year
 - Costs: 50 Civics
 - Unlocked at: Labor Force
 - Need Law: Slavery
@@ -152,6 +152,17 @@ You can still add them manually like before (github) but it would be certainly e
    - -4 Discontent/Year, Farms, Pastures, Groves and Hamlet improvements +50% yield & Winmill and Watermill +25% yield
    - Costs: 130 Stone,2 0 Iron & 20 Wood
    - Unlocked at: Hydraulics
+
+**Brothel:**
+
+- On Completion: +20 Discontent
+- -2 Discontent/Year,+4 Money/Year, +0,5 Maintenance/Yeear & -0,5 Civics/Year
+- Costs: 70 Stone & 30 Wood
+- Build: 60 Civics
+- Unlocked at: Administration
+- Needs min Culture: Developing
+- Is not repeatable
+
 
 <br><br>
 
