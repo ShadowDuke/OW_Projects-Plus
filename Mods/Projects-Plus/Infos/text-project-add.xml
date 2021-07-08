@@ -68,4 +68,8 @@
 		<zType>TEXT_PROJECT_CANALIZATION_3</zType>
 		<English>Canalization III~a Canalization III~Canalizations III</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_BROTHELS</zType>
+		<English>Brothel</English>
+	</Entry>
 </Root>

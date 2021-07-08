@@ -36,4 +36,8 @@
 		<zType>TEXT_EFFECTCITY_PROJECT_CANALIZATION</zType>
 		<Translation>Kanalisation~eine Kanalisation~Kanalisationen</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_BROTHELS</zType>
+		<Translation>Bordell errichtet</Translation>
+	</Entry>
 </Root>

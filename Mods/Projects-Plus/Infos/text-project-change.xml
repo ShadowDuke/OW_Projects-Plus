@@ -68,4 +68,8 @@
 		<zType>TEXT_PROJECT_CANALIZATION_3</zType>
 		<Translation>Kanalisation III~eine Kanalisation III~Kanalisationen III</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_BROTHELS</zType>
+		<Translation>Bordell</Translation>
+	</Entry>
 </Root>

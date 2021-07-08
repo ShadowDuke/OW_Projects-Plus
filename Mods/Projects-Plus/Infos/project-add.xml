@@ -40,6 +40,10 @@
 				<iValue>400</iValue>
 			</Pair>
 			<Pair>
+				<zIndex>YIELD_ORDERS</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
 				<iValue>50</iValue>
 			</Pair>
@@ -61,6 +65,10 @@
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
 				<iValue>50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_ORDERS</zIndex>
+				<iValue>1</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>
@@ -396,6 +404,28 @@
 			<Pair>
 				<zIndex>YIELD_WOOD</zIndex>
 				<iValue>20</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_BROTHELS</zType>
+		<Name>TEXT_PROJECT_BROTHELS</Name>
+		<zIcon>PROJECT_FESTIVAL_1</zIcon>
+		<iCivics>60</iCivics>
+		<iMaxCount>1</iMaxCount>
+		<Bonus>BONUS_PROJECT_BROTHELS</Bonus>
+		<CityProject>PROJECT_BROTHELS</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_BROTHELS</EffectCity>
+		<MinimumCulture>CULTURE_DEVELOPING</MinimumCulture>
+		<TechPrereq>TECH_ADMINISTRATION</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_STONE</zIndex>
+				<iValue>70</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_WOOD</zIndex>
+				<iValue>30</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>

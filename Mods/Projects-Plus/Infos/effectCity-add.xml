@@ -23,7 +23,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>10</iValue>
+				<iValue>5</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -38,7 +38,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>10</iValue>
+				<iValue>5</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -215,5 +215,32 @@
 				<iValue>50</iValue>
 			</Pair>
 		</aiImprovementClassModifier>		
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_BROTHELS</zType>
+		<Name>TEXT_EFFECTCITY_PROJECT_BROTHELS</Name>
+		<SourceProject>PROJECT_BROTHELS</SourceProject>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>-5</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MAINTENANCE</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldRate>
 	</Entry>
 </Root>

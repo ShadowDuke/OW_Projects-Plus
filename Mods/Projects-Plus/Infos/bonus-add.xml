@@ -15,7 +15,7 @@
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>50</iValue>
+				<iValue>30</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>
@@ -25,7 +25,7 @@
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>50</iValue>
+				<iValue>30</iValue>
 			</Pair>
 		</aiCityYields>
 		<aiGlobalYieldsBase>
@@ -152,5 +152,20 @@
 				<iValue>-80</iValue>
 			</Pair>
 		</aiGlobalYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_BROTHELS</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiCityYields>
+		<aiRatings>
+			<Pair>
+				<zIndex>RATING_DISCIPLINE</zIndex>
+				<iValue>-1</iValue>
+			</Pair>
+		</aiRatings>
 	</Entry>
 </Root>
