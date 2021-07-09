@@ -13,6 +13,10 @@
 		<Translation>Verkaufte Sklaven</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_HIRE_MERCENARIES_LOCAL</zType>
+		<Translation>Heurte örtliche Söldner an</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_HOST_A_PLAY</zType>
 		<Translation>Richtete ein Theaterstück aus</Translation>
 	</Entry>
@@ -37,7 +41,7 @@
 		<Translation>Kanalisation~eine Kanalisation~Kanalisationen</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTCITY_PROJECT_BROTHELS</zType>
+		<zType>TEXT_EFFECTCITY_PROJECT_BROTHEL</zType>
 		<Translation>Bordell errichtet</Translation>
 	</Entry>
 </Root>

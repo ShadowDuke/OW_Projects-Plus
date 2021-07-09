@@ -36,11 +36,15 @@
 		</aiGlobalYieldsBase>
 	</Entry>
 	<Entry>
-		<zType>BONUS_PROJECT_HIRE_MERCENARIES</zType>
+		<zType>BONUS_PROJECT_HIRE_MERCENARIES_LOCAL</zType>
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
 				<iValue>-150</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-10</iValue>
 			</Pair>
 		</aiCityYields>
 		<aiBonusUnits>
@@ -154,7 +158,7 @@
 		</aiGlobalYields>
 	</Entry>
 	<Entry>
-		<zType>BONUS_PROJECT_BROTHELS</zType>
+		<zType>BONUS_PROJECT_BROTHEL</zType>
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>

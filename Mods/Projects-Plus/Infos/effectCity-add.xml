@@ -43,6 +43,17 @@
 		</aiYieldRate>
 	</Entry>
 	<Entry>
+		<zType>EFFECTCITY_PROJECT_HIRE_MERCENARIES_LOCAL</zType>
+		<Name>TEXT_EFFECTCITY_PROJECT_HIRE_MERCENARIES_LOCAL</Name>
+		<SourceProject>PROJECT_HIRE_MERCENARIES_LOCAL</SourceProject>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
 		<zType>EFFECTCITY_PROJECT_HOST_A_PLAY</zType>
 		<Name>TEXT_EFFECTCITY_PROJECT_HOST_A_PLAY</Name>
 		<SourceProject>PROJECT_HOST_A_PLAY</SourceProject>
@@ -217,9 +228,9 @@
 		</aiImprovementClassModifier>		
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_PROJECT_BROTHELS</zType>
-		<Name>TEXT_EFFECTCITY_PROJECT_BROTHELS</Name>
-		<SourceProject>PROJECT_BROTHELS</SourceProject>
+		<zType>EFFECTCITY_PROJECT_BROTHEL</zType>
+		<Name>TEXT_EFFECTCITY_PROJECT_BROTHEL</Name>
+		<SourceProject>PROJECT_BROTHEL</SourceProject>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>

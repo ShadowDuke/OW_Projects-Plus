@@ -13,8 +13,8 @@
 		<English>Slave market (sell)</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_PROJECT_HIRE_MERCENARIES</zType>
-		<English>Hire Mercenaries</English>
+		<zType>TEXT_PROJECT_HIRE_MERCENARIES_LOCAL</zType>
+		<English>Hire Mercenaries (local)</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HOST_A_PLAY</zType>
@@ -69,7 +69,7 @@
 		<English>Canalization III~a Canalization III~Canalizations III</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_PROJECT_BROTHELS</zType>
+		<zType>TEXT_PROJECT_BROTHEL</zType>
 		<English>Brothel</English>
 	</Entry>
 </Root>

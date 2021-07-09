@@ -3,7 +3,7 @@
 	<Entry>
 		<zType>PROJECT_MILITARY_TRAINING</zType>
 		<Name>TEXT_PROJECT_MILITARY_TRAINING</Name>
-		<zIcon>PROJECT_GLADIATORS</zIcon>
+		<zIcon>PROJECT_MILITARY_TRAINING</zIcon>
 		<iCivics>50</iCivics>
 		<bRepeat>1</bRepeat>
 		<bNoHurry>0</bNoHurry>
@@ -25,7 +25,7 @@
 	<Entry>
 		<zType>PROJECT_BUY_SLAVES</zType>
 		<Name>TEXT_PROJECT_BUY_SLAVES</Name>
-		<zIcon>PROJECT_REPAIR</zIcon>
+		<zIcon>PROJECT_BUY_SLAVES</zIcon>
 		<iCivics>0</iCivics>
 		<bRepeat>1</bRepeat>
 		<bNoHurry>0</bNoHurry>
@@ -52,7 +52,7 @@
 	<Entry>
 		<zType>PROJECT_SELL_SLAVES</zType>
 		<Name>TEXT_PROJECT_SELL_SLAVES</Name>
-		<zIcon>PROJECT_REPAIR</zIcon>
+		<zIcon>PROJECT_SELL_SLAVES</zIcon>
 		<iCivics>0</iCivics>
 		<bRepeat>1</bRepeat>
 		<bNoHurry>0</bNoHurry>
@@ -73,15 +73,17 @@
 		</aiYieldCost>
 	</Entry>
 	<Entry>
-		<zType>PROJECT_HIRE_MERCENARIES</zType>
-		<Name>TEXT_PROJECT_HIRE_MERCENARIES</Name>
-		<zIcon>PROJECT_CORRUPTION_REFORM</zIcon>
+		<zType>PROJECT_HIRE_MERCENARIES_LOCAL</zType>
+		<Name>TEXT_PROJECT_HIRE_MERCENARIES_LOCAL</Name>
+		<zIcon>PROJECT_HIRE_MERCENARIES_LOCAL</zIcon>
 		<iCivics>10</iCivics>
 		<bRepeat>1</bRepeat>
 		<bNoHurry>1</bNoHurry>
-		<Bonus>BONUS_PROJECT_HIRE_MERCENARIES</Bonus>
-		<CityProject>PROJECT_HIRE_MERCENARIES</CityProject>
+		<Bonus>BONUS_PROJECT_HIRE_MERCENARIES_LOCAL</Bonus>
+		<CityProject>PROJECT_HIRE_MERCENARIES_LOCAL</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_HIRE_MERCENARIES_LOCAL</EffectCity>
 		<TechPrereq>TECH_RHETORIC</TechPrereq>
+		<EffectPlayerPrereq>EFFECTPLAYER_LAW_CONSTITUTION_DECREE</EffectPlayerPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -100,7 +102,7 @@
 	<Entry>
 		<zType>PROJECT_HOST_A_PLAY</zType>
 		<Name>TEXT_PROJECT_HOST_A_PLAY</Name>
-		<zIcon>PROJECT_FESTIVAL_1</zIcon>
+		<zIcon>PROJECT_HOST_A_PLAY</zIcon>
 		<iCivics>0</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<bNoHurry>1</bNoHurry>
@@ -127,7 +129,7 @@
 	<Entry>
 		<zType>PROJECT_LOOK_FOR_MINSTER_COURTIER</zType>
 		<Name>TEXT_PROJECT_LOOK_FOR_MINSTER_COURTIER</Name>
-		<zIcon>PROJECT_COUNCIL_1</zIcon>
+		<zIcon>PROJECT_LOOK_FOR_MINSTER_COURTIER</zIcon>
 		<iCivics>40</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<bNoHurry>1</bNoHurry>
@@ -144,7 +146,7 @@
 	<Entry>
 		<zType>PROJECT_LOOK_FOR_SOLDIER_COURTIER</zType>
 		<Name>TEXT_PROJECT_LOOK_FOR_SOLDIER_COURTIER</Name>
-		<zIcon>PROJECT_COUNCIL_2</zIcon>
+		<zIcon>PROJECT_LOOK_FOR_SOLDIER_COURTIER</zIcon>
 		<iCivics>40</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<bNoHurry>1</bNoHurry>
@@ -161,7 +163,7 @@
 	<Entry>
 		<zType>PROJECT_LOOK_FOR_MERCHANT_COURTIER</zType>
 		<Name>TEXT_PROJECT_LOOK_FOR_MERCHANT_COURTIER</Name>
-		<zIcon>PROJECT_COUNCIL_3</zIcon>
+		<zIcon>PROJECT_LOOK_FOR_MERCHANT_COURTIER</zIcon>
 		<iCivics>40</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<bNoHurry>1</bNoHurry>
@@ -178,7 +180,7 @@
 	<Entry>
 		<zType>PROJECT_LOOK_FOR_SCIENTIST_COURTIER</zType>
 		<Name>TEXT_PROJECT_LOOK_FOR_SCIENTIST_COURTIER</Name>
-		<zIcon>PROJECT_COUNCIL_4</zIcon>
+		<zIcon>PROJECT_LOOK_FOR_SCIENTIST_COURTIER</zIcon>
 		<iCivics>40</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<bNoHurry>1</bNoHurry>
@@ -195,7 +197,7 @@
 	<Entry>
 		<zType>PROJECT_RELIGION_YES</zType>
 		<Name>TEXT_PROJECT_RELIGION_YES</Name>
-		<zIcon>PROJECT_MONARCH</zIcon>
+		<zIcon>PROJECT_RELIGION_YES</zIcon>
 		<iCivics>0</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<bNoHurry>1</bNoHurry>
@@ -229,7 +231,7 @@
 	<Entry>
 		<zType>PROJECT_RELIGION_NO</zType>
 		<Name>TEXT_PROJECT_RELIGION_NO</Name>
-		<zIcon>PROJECT_MONARCH</zIcon>
+		<zIcon>PROJECT_RELIGION_NO</zIcon>
 		<iCivics>0</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<bNoHurry>1</bNoHurry>
@@ -259,7 +261,7 @@
 	<Entry>
 		<zType>PROJECT_PILLAGE_GRANARY</zType>
 		<Name>TEXT_PROJECT_PILLAGE_GRANARY</Name>
-		<zIcon>PROJECT_INQUIRY_1</zIcon>
+		<zIcon>PROJECT_PILLAGE_GRANARY</zIcon>
 		<iCivics>10</iCivics>
 		<bRepeat>1</bRepeat>
 		<bNoHurry>1</bNoHurry>
@@ -281,7 +283,7 @@
 	<Entry>
 		<zType>PROJECT_CONSTRUCT_MONUMENT</zType>
 		<Name>TEXT_PROJECT_CONSTRUCT_MONUMENT</Name>
-		<zIcon>PROJECT_TRIUMPH</zIcon>
+		<zIcon>PROJECT_CONSTRUCT_MONUMENT</zIcon>
 		<iCivics>120</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<bNoHurry>1</bNoHurry>
@@ -322,7 +324,7 @@
 	<Entry>
 		<zType>PROJECT_CANALIZATION_1</zType>
 		<Name>TEXT_PROJECT_CANALIZATION_1</Name>
-		<zIcon>PROJECT_CONVOY_1</zIcon>
+		<zIcon>PROJECT_CANALIZATION_1</zIcon>
 		<iCivics>40</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<Bonus>BONUS_PROJECT_CANALIZATION_1</Bonus>
@@ -354,7 +356,7 @@
 	<Entry>
 		<zType>PROJECT_CANALIZATION_2</zType>
 		<Name>TEXT_PROJECT_CANALIZATION_2</Name>
-		<zIcon>PROJECT_CONVOY_2</zIcon>
+		<zIcon>PROJECT_CANALIZATION_2</zIcon>
 		<iCivics>70</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<Bonus>BONUS_PROJECT_CANALIZATION_2</Bonus>
@@ -383,7 +385,7 @@
 	<Entry>
 		<zType>PROJECT_CANALIZATION_3</zType>
 		<Name>TEXT_PROJECT_CANALIZATION_3</Name>
-		<zIcon>PROJECT_CONVOY_3</zIcon>
+		<zIcon>PROJECT_CANALIZATION_3</zIcon>
 		<iCivics>110</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<Bonus>BONUS_PROJECT_CANALIZATION_3</Bonus>
@@ -408,14 +410,14 @@
 		</aiYieldCost>
 	</Entry>
 	<Entry>
-		<zType>PROJECT_BROTHELS</zType>
-		<Name>TEXT_PROJECT_BROTHELS</Name>
-		<zIcon>PROJECT_FESTIVAL_1</zIcon>
+		<zType>PROJECT_BROTHEL</zType>
+		<Name>TEXT_PROJECT_BROTHEL</Name>
+		<zIcon>PROJECT_BROTHEL</zIcon>
 		<iCivics>60</iCivics>
 		<iMaxCount>1</iMaxCount>
-		<Bonus>BONUS_PROJECT_BROTHELS</Bonus>
-		<CityProject>PROJECT_BROTHELS</CityProject>
-		<EffectCity>EFFECTCITY_PROJECT_BROTHELS</EffectCity>
+		<Bonus>BONUS_PROJECT_BROTHEL</Bonus>
+		<CityProject>PROJECT_BROTHEL</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_BROTHEL</EffectCity>
 		<MinimumCulture>CULTURE_DEVELOPING</MinimumCulture>
 		<TechPrereq>TECH_ADMINISTRATION</TechPrereq>
 		<aiYieldCost>

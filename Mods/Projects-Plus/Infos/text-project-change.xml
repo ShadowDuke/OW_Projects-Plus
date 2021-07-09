@@ -13,8 +13,8 @@
 		<Translation>Sklavenmarkt (verkaufen)</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_PROJECT_HIRE_MERCENARIES</zType>
-		<Translation>Söldner anheuern</Translation>
+		<zType>TEXT_PROJECT_HIRE_MERCENARIES_LOCAL</zType>
+		<Translation>Söldner anheuern (örtlich)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HOST_A_PLAY</zType>
@@ -69,7 +69,7 @@
 		<Translation>Kanalisation III~eine Kanalisation III~Kanalisationen III</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_PROJECT_BROTHELS</zType>
+		<zType>TEXT_PROJECT_BROTHEL</zType>
 		<Translation>Bordell</Translation>
 	</Entry>
 </Root>
