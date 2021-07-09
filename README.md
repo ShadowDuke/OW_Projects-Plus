@@ -63,9 +63,10 @@ You can still add them manually like before (github) but it would be certainly e
 
 **Hire Mercenaries:**
 
-- On Completion: -180 Training & Gain Militia (X2)
+- On Completion: -10 Discontent, -150 Training & Gain Militia (X2)
 - Costs: 50 Civics, 600 Money & 50 Food
 - Unlocked at: Rhetoric
+- Need Law: Constitution
 - Is repeatable
 
 
