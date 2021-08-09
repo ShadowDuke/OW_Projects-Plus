@@ -150,7 +150,7 @@ You can still add them manually like before (github) but it would be certainly e
 
 - **III**
    - On Completion: +50 Civics & -80 Discontent
-   - -4 Discontent/Year, Farms, Pastures, Groves and Hamlet improvements +50% yield & Winmill and Watermill +25% yield
+   - -4 Discontent/Year, Farms, Pastures, Groves and Hamlet improvements +50% yield & Windmill and Watermill +25% yield
    - Costs: 130 Stone,2 0 Iron & 20 Wood
    - Unlocked at: Hydraulics
 
