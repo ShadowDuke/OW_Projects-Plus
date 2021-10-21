@@ -2,74 +2,74 @@
 <Root>
 	<Entry>
 		<zType>TEXT_PROJECT_MILITARY_TRAINING</zType>
-		<Translation>Militärtraining</Translation>
+		<de-DE>Militärtraining</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_BUY_SLAVES</zType>
-		<Translation>Sklavenmarkt (kaufen)</Translation>
+		<de-DE>Sklavenmarkt (kaufen)</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SELL_SLAVES</zType>
-		<Translation>Sklavenmarkt (verkaufen)</Translation>
+		<de-DE>Sklavenmarkt (verkaufen)</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HIRE_MERCENARIES_LOCAL</zType>
-		<Translation>Söldner anheuern (örtlich)</Translation>
+		<de-DE>Söldner anheuern (örtlich)</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HOST_A_PLAY</zType>
-		<Translation>Richte ein Theaterstück aus</Translation>
+		<de-DE>Richte ein Theaterstück aus</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_LOOK_FOR_MINSTER_COURTIER</zType>
-		<Translation>Suche einen Geistlichen Vertrauten</Translation>
+		<de-DE>Suche einen Geistlichen Vertrauten</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_LOOK_FOR_SOLDIER_COURTIER</zType>
-		<Translation>Suche einen Krieger Vertrauten</Translation>
+		<de-DE>Suche einen Krieger Vertrauten</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_LOOK_FOR_MERCHANT_COURTIER</zType>
-		<Translation>Suche einen Kaufmann Vertrauten</Translation>
+		<de-DE>Suche einen Kaufmann Vertrauten</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_LOOK_FOR_SCIENTIST_COURTIER</zType>
-		<Translation>Suche einen Wissenschaftler Vertrauten</Translation>
+		<de-DE>Suche einen Wissenschaftler Vertrauten</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_RELIGION_YES</zType>
-		<Translation>Unterstütze Religion</Translation>
+		<de-DE>Unterstütze Religion</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_RELIGION_NO</zType>
-		<Translation>Verbiete Religionsausbreitung</Translation>
+		<de-DE>Verbiete Religionsausbreitung</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PILLAGE_GRANARY</zType>
-		<Translation>Plündere die Kornkammer</Translation>
+		<de-DE>Plündere die Kornkammer</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CONSTRUCT_MONUMENT</zType>
-		<Translation>Errichte ein Monument</Translation>
+		<de-DE>Errichte ein Monument</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CANALIZATION</zType>
-		<Translation>Kanalisation</Translation>
+		<de-DE>Kanalisation</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CANALIZATION_1</zType>
-		<Translation>Kanalisation I~eine Kanalisation I~Kanalisationen I</Translation>
+		<de-DE>Kanalisation I~eine Kanalisation I~Kanalisationen I</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CANALIZATION_2</zType>
-		<Translation>Kanalisation II~eine Kanalisation II~Kanalisationen II</Translation>
+		<de-DE>Kanalisation II~eine Kanalisation II~Kanalisationen II</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CANALIZATION_3</zType>
-		<Translation>Kanalisation III~eine Kanalisation III~Kanalisationen III</Translation>
+		<de-DE>Kanalisation III~eine Kanalisation III~Kanalisationen III</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_BROTHEL</zType>
-		<Translation>Bordell</Translation>
+		<de-DE>Bordell</de-DE>
 	</Entry>
 </Root>

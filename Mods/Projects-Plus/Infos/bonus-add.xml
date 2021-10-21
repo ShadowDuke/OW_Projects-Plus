@@ -37,6 +37,7 @@
 	</Entry>
 	<Entry>
 		<zType>BONUS_PROJECT_HIRE_MERCENARIES_LOCAL</zType>
+		<bMercenaryUnit>1</bMercenaryUnit>
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>

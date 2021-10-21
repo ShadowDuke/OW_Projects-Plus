@@ -2,46 +2,46 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_MILITARY_TRAINING</zType>
-		<Translation>Militärtraining</Translation>
+		<de-DE>Militärtraining</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_BUY_SLAVES</zType>
-		<Translation>Kaufte Sklaven</Translation>
+		<de-DE>Kaufte Sklaven</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_SELL_SLAVES</zType>
-		<Translation>Verkaufte Sklaven</Translation>
+		<de-DE>Verkaufte Sklaven</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_HIRE_MERCENARIES_LOCAL</zType>
-		<Translation>Heurte örtliche Söldner an</Translation>
+		<de-DE>Heurte örtliche Söldner an</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_HOST_A_PLAY</zType>
-		<Translation>Richtete ein Theaterstück aus</Translation>
+		<de-DE>Richtete ein Theaterstück aus</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_RELIGION_YES</zType>
-		<Translation>Unterstütze Religion in dieser Stadt</Translation>
+		<de-DE>Unterstütze Religion in dieser Stadt</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_RELIGION_NO</zType>
-		<Translation>Verbat die Religionsausbreitung in dieser Stadt</Translation>
+		<de-DE>Verbat die Religionsausbreitung in dieser Stadt</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_PILLAGE_GRANARY</zType>
-		<Translation>Plünderte die Kornkammer</Translation>
+		<de-DE>Plünderte die Kornkammer</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_CONSTRUCT_MONUMENT</zType>
-		<Translation>Errichtete ein Monument</Translation>
+		<de-DE>Errichtete ein Monument</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_CANALIZATION</zType>
-		<Translation>Kanalisation~eine Kanalisation~Kanalisationen</Translation>
+		<de-DE>Kanalisation~eine Kanalisation~Kanalisationen</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_BROTHEL</zType>
-		<Translation>Bordell errichtet</Translation>
+		<de-DE>Bordell errichtet</de-DE>
 	</Entry>
 </Root>

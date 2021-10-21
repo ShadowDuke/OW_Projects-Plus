@@ -2,46 +2,46 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_MILITARY_TRAINING</zType>
-		<English>Military Training</English>
+		<en-US>Military Training</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_BUY_SLAVES</zType>
-		<English>Bought Slaves</English>
+		<en-US>Bought Slaves</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_SELL_SLAVES</zType>
-		<English>Sold Slaves</English>
+		<en-US>Sold Slaves</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_HIRE_MERCENARIES_LOCAL</zType>
-		<English>Hired local mercenaries</English>
+		<en-US>Hired local mercenaries</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_HOST_A_PLAY</zType>
-		<English>Hosted a Play</English>
+		<en-US>Hosted a Play</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_RELIGION_YES</zType>
-		<English>Supported Religion in this City</English>
+		<en-US>Supported Religion in this City</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_RELIGION_NO</zType>
-		<English>Forbade Religion spread in this City</English>
+		<en-US>Forbade Religion spread in this City</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_PILLAGE_GRANARY</zType>
-		<English>Pillaged the granary</English>
+		<en-US>Pillaged the granary</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_CONSTRUCT_MONUMENT</zType>
-		<English>Constructed a monument</English>
+		<en-US>Constructed a monument</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_CANALIZATION</zType>
-		<English>Canalization~a Canalization~Canalizations</English>
+		<en-US>Canalization~a Canalization~Canalizations</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_PROJECT_BROTHEL</zType>
-		<English>Established brothel</English>
+		<en-US>Established brothel</en-US>
 	</Entry>
 </Root>

@@ -2,74 +2,74 @@
 <Root>
 	<Entry>
 		<zType>TEXT_PROJECT_MILITARY_TRAINING</zType>
-		<English>Military Training</English>
+		<en-US>Military Training</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_BUY_SLAVES</zType>
-		<English>Slave market (buy)</English>
+		<en-US>Slave market (buy)</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_SELL_SLAVES</zType>
-		<English>Slave market (sell)</English>
+		<en-US>Slave market (sell)</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HIRE_MERCENARIES_LOCAL</zType>
-		<English>Hire Mercenaries (local)</English>
+		<en-US>Hire Mercenaries (local)</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HOST_A_PLAY</zType>
-		<English>Host a Play</English>
+		<en-US>Host a Play</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_LOOK_FOR_MINSTER_COURTIER</zType>
-		<English>Look for Minister Courtier</English>
+		<en-US>Look for Minister Courtier</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_LOOK_FOR_SOLDIER_COURTIER</zType>
-		<English>Look for Soldier Courtier</English>
+		<en-US>Look for Soldier Courtier</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_LOOK_FOR_MERCHANT_COURTIER</zType>
-		<English>Look for Merchant Courtier</English>
+		<en-US>Look for Merchant Courtier</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_LOOK_FOR_SCIENTIST_COURTIER</zType>
-		<English>Look for Scientist Courtier</English>
+		<en-US>Look for Scientist Courtier</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_RELIGION_YES</zType>
-		<English>Support Religion</English>
+		<en-US>Support Religion</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_RELIGION_NO</zType>
-		<English>Forbid Religion spread</English>
+		<en-US>Forbid Religion spread</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_PILLAGE_GRANARY</zType>
-		<English>Pillage the granary</English>
+		<en-US>Pillage the granary</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CONSTRUCT_MONUMENT</zType>
-		<English>Construct a monument</English>
+		<en-US>Construct a monument</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CANALIZATION</zType>
-		<English>Canalization</English>
+		<en-US>Canalization</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CANALIZATION_1</zType>
-		<English>Canalization I~a Canalization I~Canalizations I</English>
+		<en-US>Canalization I~a Canalization I~Canalizations I</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CANALIZATION_2</zType>
-		<English>Canalization II~a Canalization II~Canalizations II</English>
+		<en-US>Canalization II~a Canalization II~Canalizations II</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_CANALIZATION_3</zType>
-		<English>Canalization III~a Canalization III~Canalizations III</English>
+		<en-US>Canalization III~a Canalization III~Canalizations III</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_BROTHEL</zType>
-		<English>Brothel</English>
+		<en-US>Brothel</en-US>
 	</Entry>
 </Root>
