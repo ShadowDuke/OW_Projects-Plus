@@ -139,7 +139,7 @@ You can still add them manually like before (github) but it would be certainly e
 - **I**
    - On Completion: +1 Growth & -15 Discontent
    - +0,5 Grwoth/Year & -0,5 Discontent/Year
-   - Costs: 50 Tone & 20 Wood
+   - Costs: 50 Stone & 20 Wood
    - Unlocked at: Husbandry
 
 - **II**
@@ -151,7 +151,7 @@ You can still add them manually like before (github) but it would be certainly e
 - **III**
    - On Completion: +50 Civics & -80 Discontent
    - -4 Discontent/Year, Farms, Pastures, Groves and Hamlet improvements +50% yield & Windmill and Watermill +25% yield
-   - Costs: 130 Stone,2 0 Iron & 20 Wood
+   - Costs: 130 Stone, 20 Iron & 20 Wood
    - Unlocked at: Hydraulics
 
 **Brothel:**
